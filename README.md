@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 
@@ -12,9 +12,9 @@
 - 
 - 💬 Ask me about ...
 - 
-# 📫 How to reach me: root@niconiconi.us
+#### 📫 How to reach me: root@niconiconi.us
 
 - 😄 Pronouns: ...
 - 
-# ⚡ Fun fact: I'm Really Very Love Inori Minase
+#### ⚡ Fun fact: I'm Really Very Love Inori Minase
 
