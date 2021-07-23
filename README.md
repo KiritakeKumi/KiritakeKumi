@@ -10,7 +10,8 @@
  
 #### 📫 How to reach me: root@niconiconi.us
 
-;#### 😄 My Sweetheart: 👉 [Moe-MCU](https://github.com/Moe-MCU "Moe-MCU") 
+<!--#### 😄 My Sweetheart: 👉 [Moe-MCU](https://github.com/Moe-MCU "Moe-MCU") -->
+
 
 #### ⚡ Fun fact: I'm Really Very Love Inori Minase
 
